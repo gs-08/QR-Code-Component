@@ -26,7 +26,7 @@ Mobile View
 ### Links
 
 
-- Live Site URL: [Link](https://your-live-site-url.com)
+- Live Site URL: [Link](https://gs-08.github.io/QR-Code-Component/)
 
 ## My process
 
